@@ -1,12 +1,10 @@
 # hello-world
 my first repository
 
-Hello All,
+Hello guyz,
 
 i'm interested in technologies of Java which includes core & advanced level.
-trying to modify the stuff in the file.
-123
-456
+trying to modify some stuff in the file.
 
 Thanks,
 Pranay.
